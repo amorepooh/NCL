@@ -7,8 +7,6 @@
 
 
 ### Research Questions
-
-
 ##### RQ1. Prediction
 
 
@@ -16,8 +14,6 @@
 
 
 ### Results
-
-
 ##### RQ1. Prediction
 
 
