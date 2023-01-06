@@ -90,7 +90,7 @@
 <br/><br/>
 
 <figure class="image">
-  <img src="https://github.com/amorepooh/NCLU/blob/main/imgs/12-RQ2-eff-CIFAR-10png.png" width="702" height="440" />
+  <img src="https://github.com/amorepooh/NCLU/blob/main/imgs/12-RQ2-eff-CIFAR-10.png" width="702" height="440" />
   <figcaption><b>Test efficiency of neuron clusters and coverage-based methods on the CIFAR-10 dataset</b></figcaption>
 </figure>
 
@@ -112,6 +112,6 @@
 <br/><br/>
 
 <figure class="image">
-  <img src="https://github.com/amorepooh/NCLU/blob/main/imgs/15-RQ2-eff-STL-10png.png" width="702" height="440" />
+  <img src="https://github.com/amorepooh/NCLU/blob/main/imgs/15-RQ2-eff-STL-10.png" width="702" height="440" />
   <figcaption><b>Test efficiency of neuron clusters and coverage-based methods on the STL-10 dataset</b></figcaption>
 </figure>
