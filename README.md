@@ -26,7 +26,7 @@
 
 <figure class="image">
   <img src="https://github.com/amorepooh/NCLU/blob/main/imgs/03-RQ1-AN1.png" width="718" height="431" />
-  <figcaption><b>Prediction performance based on neuron clusters</b></figcaption>
+  <figcaption><b>Comparison of the number of original and predicted samples</b></figcaption>
 </figure>
 
 ### RQ2. Efficiency
