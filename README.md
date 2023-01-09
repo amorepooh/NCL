@@ -11,7 +11,7 @@
 
 <figure class="image">
   <img src="https://github.com/amorepooh/NCLU/blob/main/imgs/01-RQ1.png" width="810" height="168" />
-  <figcaption><b>Prediction precision measurement using training datasets</b><figcaption>
+  <figcaption><b>Prediction precision measurement</b><figcaption>
 </figure>
 
 ### RQ2. Efficiency
