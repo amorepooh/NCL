@@ -1,4 +1,4 @@
-## Selection of Test Sample to Increase CNN Test Efficiency based on Neuron Cluster
+## Selection of Test Sample to Improve CNN Test Efficiency based on Neuron Cluster
 
 ## Abstract
 
