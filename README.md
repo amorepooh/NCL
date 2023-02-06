@@ -18,7 +18,7 @@
 
 <figure class="image">
   <img src="https://github.com/amorepooh/NCLU/blob/main/imgs/02-RQ2.png" width="810" height="168" />
-  <figcaption><b>Effective test sample selection</b><figcaption>
+  <figcaption><b>Efficient test sample selection</b><figcaption>
 </figure>
 
 ## Results
