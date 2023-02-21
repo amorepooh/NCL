@@ -10,14 +10,14 @@
 ### RQ1. Prediction
 
 <figure class="image">
-  <img src="https://github.com/amorepooh/NCLU/blob/main/imgs/01-RQ1.png" width="810" height="168" />
+  <img src="https://github.com/amorepooh/NCLU/blob/main/imgs/01-RQ1.png" width="810" height="231" />
   <figcaption><b>Prediction precision measurement</b><figcaption>
 </figure>
 
 ### RQ2. Efficiency
 
 <figure class="image">
-  <img src="https://github.com/amorepooh/NCLU/blob/main/imgs/02-RQ2.png" width="810" height="168" />
+  <img src="https://github.com/amorepooh/NCLU/blob/main/imgs/02-RQ2.png" width="810" height="212" />
   <figcaption><b>Efficient test sample selection</b><figcaption>
 </figure>
 
